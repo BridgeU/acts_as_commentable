@@ -12,7 +12,7 @@ Add the following line to your Gemfile
 ### Rails 4
 
 ```ruby
-  gem 'acts_as_commentable'
+  gem "acts_as_commentable", git: "https://github.com/BridgeU/acts_as_commentable"
 ```
 
 ## Generator
